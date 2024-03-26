@@ -1,2 +1,3 @@
 # Financial-tools-in-CSharp
 as title...
+The purpose of using C# to realize some tools for calculating is to provide GUI interfaces to Windows users.
